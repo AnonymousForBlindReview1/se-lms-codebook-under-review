@@ -7,7 +7,6 @@ This repository hosts the **reflexive thematic analysis (RTA) codebook** for our
 
 ## Contents
 - `codebook/CodeBook_AllInterviews_EF_Research_V03_Sept20-2025.xlsx` — **single Excel file** with all themes and codes.
-- `docs/RTA_Methodology.md` — brief description of our RTA approach.
 - `LICENSE` — recommended: **CC BY 4.0**.
 - `README.md` — this file.
 
